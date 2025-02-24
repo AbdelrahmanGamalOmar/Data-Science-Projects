@@ -1,4 +1,4 @@
-# Machine Learning Projects
+# Data Science Projects
 
 This folder contains projects where I applied **machine learning techniques** to solve real-world problems. 
 
